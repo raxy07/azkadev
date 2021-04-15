@@ -60,3 +60,11 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 </p>
 
  ---
+
+## Another Pin Project
+<details>
+  <summary>Telegram BOT PROJECT</summary>
+  <a href="https://github.com/insaneazka/telegrambot-scriptgoogle">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=insaneazka&repo=telegrambot-scriptgoogle">
+  </a>
+</details>
