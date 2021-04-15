@@ -39,3 +39,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 <img src="https://user-images.githubusercontent.com/25087769/87172407-de83e180-c2dc-11ea-9479-a894758266c3.png"/>
 </a>
 </p>
+
+
+![GitHub metrics](https://metrics.lecoq.io/fuadrtx)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fuadrtx)  
+![Profile views](https://gpvc.arturio.dev/fuadrtx)  
