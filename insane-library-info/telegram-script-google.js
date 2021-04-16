@@ -6,6 +6,9 @@
     "voice": "https://github.com/insaneazka/insaneazka/raw/main/insaneazka.jpg?raw=true",
     "keyboard" :[
                         [
+                            { "text": "️Donate Me", "url": "https://github.com/insaneazka" }
+                        ],
+                       [
                             { "text": "️Github", "url": "https://github.com/insaneazka" },
                             { "text": "️Telegram", "url": "https://www.tiktok.com/" },
                             { "text": "️YOUTUBE", "url": "https://www.youtube.com/" }
