@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-<img src="https://github.com/insaneazka/insaneazka/blob/95f987aee5c5231f2e2bec76249a0d4b3d472396/insaneazka.jpg"/>
+<img src="https://github.com/insaneazka/insaneazka/blob/main/insaneazka.jpg?raw=true"/>
 </p>
 
 ### Halo 👋, my name is Fuad Azka
