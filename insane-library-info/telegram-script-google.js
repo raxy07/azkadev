@@ -6,7 +6,7 @@
     "voice": "https://github.com/insaneazka/insaneazka/raw/main/insaneazka.jpg?raw=true",
     "keyboard" :[
         [
-            { "text": "️🥺🥺  Donate Me  🥺🥺", "url": "https://github.com/insaneazka" }
+            { "text": "️🥺🥺  Donate Me  🥺🥺", "url": "https://saweria.co/insaneazka" }
         ],
         [
             { "text": "️Github", "url": "https://github.com/insaneazka" },
