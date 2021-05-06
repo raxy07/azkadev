@@ -14,6 +14,10 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 🌱 Saya sedang belajar HTML, JAVASCRIPT, CSS,  
 - 👯 Saya ingin berkolaborasi KALIAN 
 - 📫 Bagaimana cara menghubungi saya: TAP ICON TELEGRAM DI BAWAH 
+
+### Facts
+If you like my project or my library or tutorial and want me to keep coding and sharing simple enough, you can donate to me whatever and if you don't have enough money to follow all my social media it's quite helpful so that I keep coding enthusiastically.
+
 <h2> Communication </h2>
  <p>
 
