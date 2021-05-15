@@ -62,9 +62,7 @@ azka.on("update", async function (update) {
 </a>
 </p>
 
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=insaneupdate)  
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=insaneupdate&theme=tokyonight&ring=DD2727&fire=FDFF00&sideNums=DD65D8)](https://git.io/streak-stats)
 
 **Github Stats:**
 
