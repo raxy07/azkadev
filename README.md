@@ -76,8 +76,8 @@ azka.on("update", async function (update) {
 <p align="center">
   
 
-  <img src="https://github-readme-stats.vercel.app/api?username=insaneazka&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insaneazka&count_private=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=insaneupdate&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insaneupdate&count_private=true&theme=dracula">
 
 </p>
 
@@ -86,7 +86,7 @@ azka.on("update", async function (update) {
 ## Another Pin Project
 <details>
   <summary>Telegram BOT PROJECT</summary>
-  <a href="https://github.com/insaneazka/telegrambot-scriptgoogle">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=insaneazka&repo=telegrambot-scriptgoogle">
+  <a href="https://github.com/insaneupdate/telegrambot-scriptgoogle">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=insaneupdate&repo=telegrambot-scriptgoogle">
   </a>
 </details>
