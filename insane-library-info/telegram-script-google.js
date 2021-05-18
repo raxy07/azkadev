@@ -14,7 +14,7 @@
         ],
         [
             { "text": "️Tiktok", "url": "https://tiktok.com/@insaneupdate" },
-            { "text": "️Website", "url": "t.me/insaneazk" },
+            { "text": "️Website", "url": "t.me/insaneazka" },
             { "text": "️YOUTUBE", "url": "https://www.youtube.com/" }
         ]
     ],
