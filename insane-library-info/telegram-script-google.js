@@ -9,8 +9,12 @@
             { "text": "️🥺🥺  Donate Me  🥺🥺", "url": "https://saweria.co/insaneazka" }
         ],
         [
-            { "text": "️Github", "url": "https://github.com/insaneazka" },
-            { "text": "️Telegram", "url": "t.me/insaneazka" },
+            { "text": "️Instagram", "url": "https://tiktok.com/@insaneupdate" }
+            { "text": "️Telegram", "url": "t.me/insaneazka" }
+        ],
+        [
+            { "text": "️Tiktok", "url": "https://tiktok.com/@insaneupdate" },
+            { "text": "️Website", "url": "t.me/insaneazk" },
             { "text": "️YOUTUBE", "url": "https://www.youtube.com/" }
         ]
     ],
