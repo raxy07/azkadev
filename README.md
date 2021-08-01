@@ -8,33 +8,12 @@
 #### I'am Tech Lover
 I'm Student and instant noodle lover
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: NODE-JS / DART
 
 - 🔭 Saya sedang mengerjakan Beberapa Tugas sekolan jadi project github tidak akan release cepat 
 - 🌱 Saya sedang belajar HTML, JAVASCRIPT, CSS,  
 - 👯 Saya ingin berkolaborasi KALIAN 
 - 📫 Bagaimana cara menghubungi saya: TAP ICON TELEGRAM DI BAWAH 
-
-### Facts
-If you like my project or my library or tutorial and want me to keep coding and sharing simple enough, you can donate to me whatever and if you don't have enough money to follow all my social media it's quite helpful so that I keep coding enthusiastically.
-
-```js
-azka.on("update", async function (update) {
-  var msg = update.message;
-  var user = msg.client.user;
-  if (/(please share code more|please make more code)/ig.exec(msg.client.message)) {
-    save("happy");
-    if (user == "donate") {
-      return "yes i will share my code";
-    } else if (user == "follows me") {
-      SLEEP("1 one day");
-      return "yes i will share my code";
-    } else {
-      return false;
-    }
-  }
-})
-```
 
 <h2> Communication </h2>
  <p>
