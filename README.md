@@ -8,7 +8,7 @@
 #### I'am Tech Lover
 I'm Student and instant noodle lover
 
-Skills: NODE-JS / DART
+Skills: NODE-JS / DART / c++
 
 - 🔭 Saya sedang mengerjakan Beberapa Tugas sekolan jadi project github tidak akan release cepat 
 - 🌱 Saya sedang belajar HTML, JAVASCRIPT, CSS,  
@@ -21,7 +21,7 @@ Skills: NODE-JS / DART
 <a href="https://www.youtube.com/channel/UCjbSpwL1nGHnAEHN2fbh7DQ">
 <img src="https://user-images.githubusercontent.com/25087769/97784839-5fc7f280-1bb2-11eb-8b1f-c17fc54fb428.png"/>
 </a>
-<a href="http://insaneazka.github.io">
+<a href="http://azkadev.github.io">
 <img src="https://user-images.githubusercontent.com/25087769/87176037-2c4f1880-c2e2-11ea-8a13-41c90b711b9f.png"/>
 </a>
 </p>
