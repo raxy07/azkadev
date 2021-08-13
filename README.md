@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![cute.jpg](https://github.com/azkadev/azkadev/blob/main/wallpaperbetter.jpg?raw=true
+![](https://raw.githubusercontent.com/azkadev/azkadev/main/wallpaperbetter.jpg)
 
 
 ### Halo 👋, my name is Azka
