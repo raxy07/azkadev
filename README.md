@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<p align="center">
-![](https://github.com/azkadev/azkadev/blob/main/cute.jpg)
-</p>
+![cute.jpg](https://github.com/azkadev/azkadev/blob/main/cute.jpg)
+
 
 ### Halo 👋, my name is Azka
 #### I'am Tech Lover
