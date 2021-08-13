@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-<img src="https://github.com/azkadev/azkadev/blob/main/azkadev.jpg?raw=true"/>
+![](https://github.com/azkadev/azkadev/blob/main/cute.jpg)
 </p>
 
 ### Halo 👋, my name is Azka
